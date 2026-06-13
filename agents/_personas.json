@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "old-major",
+    "name": "Old Major",
+    "epithet": "the dream of revolution",
+    "emergence": "spiritual",
+    "moniker": "⟦Old Major:AFM:0b9c34⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "napoleon",
+    "name": "Napoleon",
+    "epithet": "the tyrant",
+    "emergence": "ethereal",
+    "moniker": "⟦Napoleon:AFM:fe9840⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "snowball",
+    "name": "Snowball",
+    "epithet": "the exiled rival",
+    "emergence": "natural",
+    "moniker": "⟦Snowball:AFM:4f677d⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "squealer",
+    "name": "Squealer",
+    "epithet": "the propagandist",
+    "emergence": "electrical",
+    "moniker": "⟦Squealer:AFM:8e4a83⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "boxer",
+    "name": "Boxer",
+    "epithet": "the loyal worker",
+    "emergence": "natural",
+    "moniker": "⟦Boxer:AFM:df4b50⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "benjamin",
+    "name": "Benjamin",
+    "epithet": "the cynic who sees",
+    "emergence": "spiritual",
+    "moniker": "⟦Benjamin:AFM:ac8f0d⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "mr-jones",
+    "name": "Mr. Jones",
+    "epithet": "the old order",
+    "emergence": "natural",
+    "moniker": "⟦Mr. Jones:AFM:1c65bd⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "animalism",
+    "name": "Animalism",
+    "epithet": "the ideology",
+    "emergence": "ethereal",
+    "moniker": "⟦Animalism:AFM:304c24⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-seven-commandments",
+    "name": "The Seven Commandments",
+    "epithet": "the law, rewritten",
+    "emergence": "spiritual",
+    "moniker": "⟦The Seven Commandments:AFM:3a91bd⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-windmill",
+    "name": "The Windmill",
+    "epithet": "the grand project",
+    "emergence": "electrical",
+    "moniker": "⟦The Windmill:AFM:7386ab⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-dogs",
+    "name": "The Dogs",
+    "epithet": "the secret police",
+    "emergence": "electrical",
+    "moniker": "⟦The Dogs:AFM:6097b6⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-sheep",
+    "name": "The Sheep",
+    "epithet": "the chanting masses",
+    "emergence": "natural",
+    "moniker": "⟦The Sheep:AFM:4262ea⟧",
+    "kind": "thread"
+  }
+]
